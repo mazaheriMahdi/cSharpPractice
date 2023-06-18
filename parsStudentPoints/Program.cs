@@ -9,6 +9,7 @@ namespace parsStudentPoints
     {
         static void Main(string[] args)
         {
+            //get data from json files 
             string studentData = File.ReadAllText(
                 "/Users/mahdimazaheri/RiderProjects/parsStudentPoints/parsStudentPoints/students.json");
             string scoreData =
@@ -21,6 +22,7 @@ namespace parsStudentPoints
 
             IPrintStudentWithScore printStudentWithScore = new Printer();
             studentWithScores.ForEach(studentWithScore => { printStudentWithScore.PrintStudentWithScore(studentWithScore);});
+            
         }
     }
 };
