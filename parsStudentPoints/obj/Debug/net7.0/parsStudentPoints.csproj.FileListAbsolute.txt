@@ -1,0 +1,15 @@
+/Users/mahdimazaheri/RiderProjects/parsStudentPoints/parsStudentPoints/bin/Debug/net7.0/parsStudentPoints
+/Users/mahdimazaheri/RiderProjects/parsStudentPoints/parsStudentPoints/bin/Debug/net7.0/parsStudentPoints.deps.json
+/Users/mahdimazaheri/RiderProjects/parsStudentPoints/parsStudentPoints/bin/Debug/net7.0/parsStudentPoints.runtimeconfig.json
+/Users/mahdimazaheri/RiderProjects/parsStudentPoints/parsStudentPoints/bin/Debug/net7.0/parsStudentPoints.dll
+/Users/mahdimazaheri/RiderProjects/parsStudentPoints/parsStudentPoints/bin/Debug/net7.0/parsStudentPoints.pdb
+/Users/mahdimazaheri/RiderProjects/parsStudentPoints/parsStudentPoints/obj/Debug/net7.0/parsStudentPoints.csproj.AssemblyReference.cache
+/Users/mahdimazaheri/RiderProjects/parsStudentPoints/parsStudentPoints/obj/Debug/net7.0/parsStudentPoints.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahdimazaheri/RiderProjects/parsStudentPoints/parsStudentPoints/obj/Debug/net7.0/parsStudentPoints.AssemblyInfoInputs.cache
+/Users/mahdimazaheri/RiderProjects/parsStudentPoints/parsStudentPoints/obj/Debug/net7.0/parsStudentPoints.AssemblyInfo.cs
+/Users/mahdimazaheri/RiderProjects/parsStudentPoints/parsStudentPoints/obj/Debug/net7.0/parsStudentPoints.csproj.CoreCompileInputs.cache
+/Users/mahdimazaheri/RiderProjects/parsStudentPoints/parsStudentPoints/obj/Debug/net7.0/parsStudentPoints.dll
+/Users/mahdimazaheri/RiderProjects/parsStudentPoints/parsStudentPoints/obj/Debug/net7.0/refint/parsStudentPoints.dll
+/Users/mahdimazaheri/RiderProjects/parsStudentPoints/parsStudentPoints/obj/Debug/net7.0/parsStudentPoints.pdb
+/Users/mahdimazaheri/RiderProjects/parsStudentPoints/parsStudentPoints/obj/Debug/net7.0/parsStudentPoints.genruntimeconfig.cache
+/Users/mahdimazaheri/RiderProjects/parsStudentPoints/parsStudentPoints/obj/Debug/net7.0/ref/parsStudentPoints.dll
